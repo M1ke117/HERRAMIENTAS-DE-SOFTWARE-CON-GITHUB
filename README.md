@@ -1,2 +1,9 @@
 # HERRAMIENTAS-DE-SOFTWARE-CON-GITHUB
-HERRAMIENTAS DE SOFTWARE CON GITHUB  Este repositorio es una plantilla para realizar la actividad de la materia “Herramientas de Software en la Nube”. El objetivo es que los equipos trabajen de forma colaborativa usando GitHub, aplicando conceptos de control de versiones, ramas, pull requests y commits
+Descripcion de actividad: Esta actividad se realiza para tener un mejor dominio de GitHub, en el que se cree un diplicado de un repositorio y editar un contenido.
+Nombre de equipo: Azul
+Integrantes:
+Arribalzaga Hernandez Manuel
+Duret Torres Aurora Isabel
+Rodriguez Medellin Mario Enrique
+Trujillo Perez Cesar Enrique
+Mendez Carmona Mike
