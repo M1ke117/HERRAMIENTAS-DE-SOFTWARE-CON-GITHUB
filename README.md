@@ -4,13 +4,8 @@ Descripcion de actividad: Esta actividad se realiza para tener un mejor dominio 
 Nombre de equipo: Azul
 
 Integrantes:
-
 Arribalzaga Hernandez Manuel
-
 Duret Torres Aurora Isabel
-
 Rodriguez Medellin Mario Enrique
-
 Trujillo Perez Cesar Enrique
-
 Mendez Carmona Mike
